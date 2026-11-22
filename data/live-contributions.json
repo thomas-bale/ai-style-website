@@ -1,23 +1,19 @@
 {
   "user": "thomas-bale",
-  "fetchedAt": "2026-11-21T20:21:51.355Z",
+  "fetchedAt": "2026-11-22T01:50:07.648Z",
   "source": "https://github.com/users/thomas-bale/contributions",
   "today": {
-    "date": "2026-11-21",
-    "count": 21
+    "date": "2026-11-22",
+    "count": 3
   },
-  "last7d": 655,
-  "last30d": 2605,
-  "lastYear": 19410,
+  "last7d": 652,
+  "last30d": 2553,
+  "lastYear": 19420,
   "best": {
     "date": "2026-11-12",
     "count": 345
   },
   "days": [
-    {
-      "date": "2026-11-08",
-      "count": 119
-    },
     {
       "date": "2026-11-09",
       "count": 232
@@ -64,11 +60,15 @@
     },
     {
       "date": "2026-11-20",
-      "count": 139
+      "count": 141
     },
     {
       "date": "2026-11-21",
-      "count": 21
+      "count": 26
+    },
+    {
+      "date": "2026-11-22",
+      "count": 3
     }
   ]
 }

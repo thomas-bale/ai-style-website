@@ -1,6 +1,6 @@
 {
   "user": "trvbale",
-  "fetchedAt": "2026-11-21T20:21:52.153Z",
+  "fetchedAt": "2026-11-22T01:50:08.358Z",
   "current": {
     "name": "Freedom",
     "artist": "Pharrell Williams",
@@ -11,7 +11,7 @@
     "playedAt": "20 Nov 2026, 14:51"
   },
   "weeklyStats": {
-    "totalScrobbles": 200
+    "totalScrobbles": 160
   },
   "topArtists": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "name": "Joy Crookes",
-      "playCount": "10"
+      "playCount": "8"
     }
   ],
   "totalScrobbles": "3200"
