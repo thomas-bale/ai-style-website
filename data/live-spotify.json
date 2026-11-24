@@ -1,31 +1,31 @@
 {
   "user": "trvbale",
-  "fetchedAt": "2026-11-23T16:56:31.412Z",
+  "fetchedAt": "2026-11-24T03:39:22.607Z",
   "current": {
-    "name": "Freedom",
-    "artist": "Pharrell Williams",
-    "album": "Freedom",
-    "url": "https://www.last.fm/music/Pharrell+Williams/_/Freedom",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/138a224165f3f0215cdd5a63ce84d701.png",
+    "name": "505",
+    "artist": "Arctic Monkeys",
+    "album": "Favourite Worst Nightmare",
+    "url": "https://www.last.fm/music/Arctic+Monkeys/_/505",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/4debfeb504dc47779f0ff3df43fd9529.png",
     "isNowPlaying": false,
-    "playedAt": "20 Nov 2026, 14:51"
+    "playedAt": "24 Nov 2026, 02:16"
   },
   "weeklyStats": {
-    "totalScrobbles": 160
+    "totalScrobbles": 135
   },
   "topArtists": [
     {
-      "name": "Cigarettes After Sex",
-      "playCount": "33"
+      "name": "攬佬SKAI ISYOURGOD",
+      "playCount": "20"
     },
     {
-      "name": "攬佬SKAI ISYOURGOD",
-      "playCount": "17"
+      "name": "Cigarettes After Sex",
+      "playCount": "9"
     },
     {
       "name": "Joy Crookes",
-      "playCount": "8"
+      "playCount": "7"
     }
   ],
-  "totalScrobbles": "3200"
+  "totalScrobbles": "3248"
 }
