@@ -1,17 +1,17 @@
 {
   "user": "trvbale",
-  "fetchedAt": "2026-11-24T03:39:22.607Z",
+  "fetchedAt": "2026-11-24T14:26:51.811Z",
   "current": {
-    "name": "505",
-    "artist": "Arctic Monkeys",
-    "album": "Favourite Worst Nightmare",
-    "url": "https://www.last.fm/music/Arctic+Monkeys/_/505",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/4debfeb504dc47779f0ff3df43fd9529.png",
-    "isNowPlaying": false,
-    "playedAt": "24 Nov 2026, 02:16"
+    "name": "Leggy Blonde",
+    "artist": "Flight of the Conchords",
+    "album": "Flight of the Conchords",
+    "url": "https://www.last.fm/music/Flight+of+the+Conchords/_/Leggy+Blonde",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/4523af3f70974e508f0e4be61af79f03.jpg",
+    "isNowPlaying": true,
+    "playedAt": null
   },
   "weeklyStats": {
-    "totalScrobbles": 135
+    "totalScrobbles": 149
   },
   "topArtists": [
     {
@@ -27,5 +27,5 @@
       "playCount": "7"
     }
   ],
-  "totalScrobbles": "3248"
+  "totalScrobbles": "3261"
 }
