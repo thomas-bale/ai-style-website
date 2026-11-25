@@ -1,17 +1,17 @@
 {
   "user": "trvbale",
-  "fetchedAt": "2026-11-25T10:43:57.742Z",
+  "fetchedAt": "2026-11-25T20:53:36.601Z",
   "current": {
-    "name": "Afraid To Feel",
-    "artist": "LF System",
-    "album": "Afraid To Feel",
-    "url": "https://www.last.fm/music/LF+System/_/Afraid+To+Feel",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2079a94dce7e847b361fa49376a840da.jpg",
+    "name": "Starry Eyes",
+    "artist": "Cigarettes After Sex",
+    "album": "I.",
+    "url": "https://www.last.fm/music/Cigarettes+After+Sex/_/Starry+Eyes",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/9be0fce12d245f3f011961ab2179e95e.jpg",
     "isNowPlaying": false,
-    "playedAt": "24 Nov 2026, 17:21"
+    "playedAt": "25 Nov 2026, 16:42"
   },
   "weeklyStats": {
-    "totalScrobbles": 147
+    "totalScrobbles": 181
   },
   "topArtists": [
     {
@@ -20,12 +20,12 @@
     },
     {
       "name": "Cigarettes After Sex",
-      "playCount": "9"
+      "playCount": "20"
     },
     {
       "name": "Fei Yu-Ching",
-      "playCount": "8"
+      "playCount": "10"
     }
   ],
-  "totalScrobbles": "3277"
+  "totalScrobbles": "3325"
 }
