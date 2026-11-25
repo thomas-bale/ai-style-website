@@ -1,31 +1,31 @@
 {
   "user": "trvbale",
-  "fetchedAt": "2026-11-24T14:26:51.811Z",
+  "fetchedAt": "2026-11-25T00:15:13.620Z",
   "current": {
-    "name": "Leggy Blonde",
-    "artist": "Flight of the Conchords",
-    "album": "Flight of the Conchords",
-    "url": "https://www.last.fm/music/Flight+of+the+Conchords/_/Leggy+Blonde",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/4523af3f70974e508f0e4be61af79f03.jpg",
-    "isNowPlaying": true,
-    "playedAt": null
+    "name": "Afraid To Feel",
+    "artist": "LF System",
+    "album": "Afraid To Feel",
+    "url": "https://www.last.fm/music/LF+System/_/Afraid+To+Feel",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/2079a94dce7e847b361fa49376a840da.jpg",
+    "isNowPlaying": false,
+    "playedAt": "24 Nov 2026, 17:21"
   },
   "weeklyStats": {
-    "totalScrobbles": 149
+    "totalScrobbles": 147
   },
   "topArtists": [
     {
       "name": "攬佬SKAI ISYOURGOD",
-      "playCount": "20"
+      "playCount": "21"
     },
     {
       "name": "Cigarettes After Sex",
       "playCount": "9"
     },
     {
-      "name": "Joy Crookes",
-      "playCount": "7"
+      "name": "Fei Yu-Ching",
+      "playCount": "8"
     }
   ],
-  "totalScrobbles": "3261"
+  "totalScrobbles": "3277"
 }
