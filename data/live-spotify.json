@@ -1,31 +1,3 @@
 {
-  "user": "trvbale",
-  "fetchedAt": "2026-11-25T20:53:36.601Z",
-  "current": {
-    "name": "Starry Eyes",
-    "artist": "Cigarettes After Sex",
-    "album": "I.",
-    "url": "https://www.last.fm/music/Cigarettes+After+Sex/_/Starry+Eyes",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/9be0fce12d245f3f011961ab2179e95e.jpg",
-    "isNowPlaying": false,
-    "playedAt": "25 Nov 2026, 16:42"
-  },
-  "weeklyStats": {
-    "totalScrobbles": 181
-  },
-  "topArtists": [
-    {
-      "name": "攬佬SKAI ISYOURGOD",
-      "playCount": "21"
-    },
-    {
-      "name": "Cigarettes After Sex",
-      "playCount": "20"
-    },
-    {
-      "name": "Fei Yu-Ching",
-      "playCount": "10"
-    }
-  ],
-  "totalScrobbles": "3325"
+  "error": "Last.fm 500"
 }
