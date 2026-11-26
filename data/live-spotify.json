@@ -1,3 +1,31 @@
 {
-  "error": "Last.fm 500"
+  "user": "trvbale",
+  "fetchedAt": "2026-11-26T13:24:02.369Z",
+  "current": {
+    "name": "Time",
+    "artist": "Pink Floyd",
+    "album": "Echoes: The Best of Pink Floyd",
+    "url": "https://www.last.fm/music/Pink+Floyd/_/Time",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/3c648c6a096f4fdd9ae8d719f0aae582.png",
+    "isNowPlaying": false,
+    "playedAt": "26 Nov 2026, 10:29"
+  },
+  "weeklyStats": {
+    "totalScrobbles": 185
+  },
+  "topArtists": [
+    {
+      "name": "攬佬SKAI ISYOURGOD",
+      "playCount": "21"
+    },
+    {
+      "name": "Cigarettes After Sex",
+      "playCount": "16"
+    },
+    {
+      "name": "Fei Yu-Ching",
+      "playCount": "10"
+    }
+  ],
+  "totalScrobbles": "3336"
 }
