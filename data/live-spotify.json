@@ -1,17 +1,17 @@
 {
   "user": "trvbale",
-  "fetchedAt": "2026-11-27T05:58:20.925Z",
+  "fetchedAt": "2026-11-27T16:16:00.556Z",
   "current": {
-    "name": "Feeling Good",
-    "artist": "Michael Bublé",
-    "album": "It's Time (20th Anniversary Deluxe Edition)",
-    "url": "https://www.last.fm/music/Michael+Bubl%C3%A9/_/Feeling+Good",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/c56fc9057210830891369ecf0550eb33.jpg",
-    "isNowPlaying": false,
-    "playedAt": "26 Nov 2026, 10:36"
+    "name": "RMB (Ring My Bell)",
+    "artist": "Aitch",
+    "album": "RMB (Ring My Bell)",
+    "url": "https://www.last.fm/music/Aitch/_/RMB+(Ring+My+Bell)",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/193bc8002e11a169e3a6cca326a4330b.jpg",
+    "isNowPlaying": true,
+    "playedAt": null
   },
   "weeklyStats": {
-    "totalScrobbles": 145
+    "totalScrobbles": 162
   },
   "topArtists": [
     {
@@ -20,12 +20,12 @@
     },
     {
       "name": "Fei Yu-Ching",
-      "playCount": "9"
+      "playCount": "11"
     },
     {
       "name": "Gabriels",
       "playCount": "8"
     }
   ],
-  "totalScrobbles": "3337"
+  "totalScrobbles": "3361"
 }
