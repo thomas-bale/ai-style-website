@@ -1,17 +1,17 @@
 {
   "user": "trvbale",
-  "fetchedAt": "2026-11-27T16:16:00.556Z",
+  "fetchedAt": "2026-11-28T00:54:07.231Z",
   "current": {
-    "name": "RMB (Ring My Bell)",
-    "artist": "Aitch",
-    "album": "RMB (Ring My Bell)",
-    "url": "https://www.last.fm/music/Aitch/_/RMB+(Ring+My+Bell)",
-    "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/193bc8002e11a169e3a6cca326a4330b.jpg",
-    "isNowPlaying": true,
-    "playedAt": null
+    "name": "Keep Your Faith",
+    "artist": "Atlus Sound Team",
+    "album": "Persona 5 Royal: Original Soundtrack",
+    "url": "https://www.last.fm/music/Atlus+Sound+Team/_/Keep+Your+Faith",
+    "image": "https://lastfm-img.freetls.fastly.net/i/u/174s/8125e216d41a0b37d204b1dead46853b.jpg",
+    "isNowPlaying": false,
+    "playedAt": "27 Nov 2026, 16:27"
   },
   "weeklyStats": {
-    "totalScrobbles": 162
+    "totalScrobbles": 165
   },
   "topArtists": [
     {
@@ -27,5 +27,5 @@
       "playCount": "8"
     }
   ],
-  "totalScrobbles": "3361"
+  "totalScrobbles": "3365"
 }
